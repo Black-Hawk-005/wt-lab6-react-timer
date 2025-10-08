@@ -2,6 +2,8 @@
 
 A countdown timer application built with React and Vite for Web Technology Lab 6.
 
+🔗 **Live Demo**: [https://YOUR_USERNAME.github.io/wt-lab6-react-timer/](https://YOUR_USERNAME.github.io/wt-lab6-react-timer/)
+
 ## Features
 
 - **Time Setting**: Set custom countdown time in hours, minutes, and seconds
